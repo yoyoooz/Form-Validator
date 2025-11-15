@@ -3,7 +3,7 @@
 A responsive **Form Validator** built using **HTML, CSS, and JavaScript**.  
 It validates user input in real-time for a registration form, including username, email, password, and confirm password fields.
 
-🌐 **Live Demo:** [View here](https://yoyoooz.github.io/News-homepage/)  
+🌐 **Live Demo:** [View here](https://yoyoooz.github.io/Form-Validator/)  
 
 ---
 
